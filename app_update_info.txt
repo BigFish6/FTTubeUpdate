@@ -1,8 +1,12 @@
-◇ AM 애니9 v1.3.4
+◇ AM 애니9 v r1.0.8
 
 ○ 새로운 기능
 
-- 버그수정
+- AM 애니9 리버전 v r1.0.8
 
-- UX(User eXperience) 수정..
+- 토렌트 파일 다이렉트 다운로드.
+
+- UX (User eXperience) 수정..
+
+
 
