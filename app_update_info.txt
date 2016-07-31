@@ -1,6 +1,6 @@
 ◇ AM 애니9 v r1.0.9
 
-○ 어플 변경 소개
+○ 업데이트 예정
 
 - 크롬 하이브리드 웹브라우저 적용 :정식명칭(Chrome Custom Tabs )
 AM애니9 + Chrome &  Chrome Dev & Chrome Beta 어플 설치 되어있으면 적용 됩니다.
