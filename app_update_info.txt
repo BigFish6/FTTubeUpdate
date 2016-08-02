@@ -3,7 +3,7 @@
 ○ 어플 변경 소개
 
 - 크롬 하이브리드 웹브라우저 적용 :정식명칭(Chrome Custom Tabs )
-AM애니9 + Chrome &  Chrome Dev & Chrome Beta 어플 설치 되어있으면 적용 됩니다.
+AM애니9 + Chrome &  Chrome Dev & Chrome Beta 3개중 한개 어플 설치 되어있으면 적용 됩니다.
 
 - 크롬 하이브리드 웹브라우저 토렌트 다운로드 사이트 추가 ..
 
