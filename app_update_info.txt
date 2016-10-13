@@ -1,14 +1,17 @@
-◇ AM 애니9 v r1.0.9
+🛆📌 SHARE6 v r1.0
 
-○ 어플 변경 소개
+❕ 어플 소개
 
-- 크롬 하이브리드 웹브라우저 적용 :정식명칭(Chrome Custom Tabs )
-AM애니9 + Chrome &  Chrome Dev & Chrome Beta 3개중 하나의 어플 설치 되어있으면 적용 됩니다.
+- ⚇ 동영상 영화, 애니, 이슈 짤방 모음..
 
-- 크롬 하이브리드 웹브라우저 토렌트 다운로드 사이트 추가 ..
+- ⚇ 안드로이드 게임 공유..
 
-- 메인 애니  소개 이미지 JPG/GIF 보기 사용자 설정 추가.
+- ⚇ 안드로이드 어플 공유..
 
-- UX (User eXperience) 수정..
+- ⚇ 토렌트 사이트 모음..
+
+- ⚇ 웹브라우저 'Chrome custom Tabs' 적용..
+
+- ⚇ Material Design (머터리얼 디자인)
 
 
